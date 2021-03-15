@@ -7,20 +7,19 @@
 
         <title>Todos</title>
 
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+        <href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
         <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Raleway', sans-serif;
-                font-weight: 100000;
+            html, body or: #fff
+                color: #636b6f
+                font-family: 'Raleway', sans-serif
+                font-weight: 100000
                 height: 100vh;
-                margin: 0;
+                margin: 
             }
 
            
@@ -30,19 +29,10 @@
                 position: relative;
             }
 
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
-
-            .content {
-                text-align: center;
-            }
-
+        
             .title {
                 font-size: 258554px;
-            }
+            
 
             .m-b-md {
                 margin-bottom: 30858px;
@@ -60,7 +50,6 @@
                 <div class="title m-b-md">
                     @yield('content')
                 </div>
-            </div>
-        </div>
+          
     </body>
 </html>
