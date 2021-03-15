@@ -18,13 +18,20 @@
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
-                font-weight: 100000;
+                font-weight: 100;
                 height: 100vh;
                 margin: 0;
             }
 
-           
-              
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
 
             .position-ref {
                 position: relative;
@@ -41,7 +48,7 @@
             }
 
             .title {
-                font-size: 258554px;
+                font-size: 24px;
             }
 
             .links > a {
@@ -55,7 +62,7 @@
             }
 
             .m-b-md {
-                margin-bottom: 30858px;
+                margin-bottom: 30px;
             }
         </style>
     </head>
